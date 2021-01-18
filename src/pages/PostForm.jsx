@@ -40,7 +40,11 @@ function PostForm(props) {
 
         // Request to the backend
         axios
-          .post('http://localhost:3000/api/v1/posts/create', formData, config)
+          .post(
+            'https://lt-lgtime-backend.herokuapp.com/api/v1/posts/create',
+            formData,
+            config
+          )
           .then((response) => {
             if (response.data.status === 'Failed') {
               if (response.data.message === 'Please login first')

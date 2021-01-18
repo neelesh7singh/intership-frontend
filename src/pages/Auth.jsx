@@ -27,7 +27,11 @@ function Auth(props) {
 
     // Request to backend
     axios
-      .post('http://localhost:3000/api/v1/auth/signup', formData, config)
+      .post(
+        'https://lt-lgtime-backend.herokuapp.com/api/v1/auth/signup',
+        formData,
+        config
+      )
       .then((response) => {
         console.log(response);
         if (response.data.status === 'Failed') alert(response.data.message);
@@ -50,7 +54,11 @@ function Auth(props) {
 
     // Request to backend
     axios
-      .post('http://localhost:3000/api/v1/auth/login', formData, config)
+      .post(
+        'https://lt-lgtime-backend.herokuapp.com/api/v1/auth/login',
+        formData,
+        config
+      )
       .then((response) => {
         console.log(response);
         if (response.data.status === 'Failed') alert(response.data.message);

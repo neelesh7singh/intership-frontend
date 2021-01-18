@@ -57,7 +57,7 @@ function Posts(props) {
 
     // Request to get all the posts from backend
     axios
-      .get('http://localhost:3000/api/v1/posts/all', config)
+      .get('https://lt-lgtime-backend.herokuapp.com/api/v1/posts/all', config)
       .then((response) => {
         if (response.data.status === 'Failed') {
           props.history.push('/');
