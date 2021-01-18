@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/intership-frontend/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/intership-frontend/static/js/main.e007e80a.chunk.js",
+    "main.js.map": "/intership-frontend/static/js/main.e007e80a.chunk.js.map",
+    "runtime-main.js": "/intership-frontend/static/js/runtime-main.3fc3739a.js",
+    "runtime-main.js.map": "/intership-frontend/static/js/runtime-main.3fc3739a.js.map",
+    "static/js/2.fefd974a.chunk.js": "/intership-frontend/static/js/2.fefd974a.chunk.js",
+    "static/js/2.fefd974a.chunk.js.map": "/intership-frontend/static/js/2.fefd974a.chunk.js.map",
+    "static/js/3.f556ef49.chunk.js": "/intership-frontend/static/js/3.f556ef49.chunk.js",
+    "static/js/3.f556ef49.chunk.js.map": "/intership-frontend/static/js/3.f556ef49.chunk.js.map",
+    "index.html": "/intership-frontend/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/intership-frontend/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.fefd974a.chunk.js.LICENSE.txt": "/intership-frontend/static/js/2.fefd974a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fc3739a.js",
+    "static/js/2.fefd974a.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.e007e80a.chunk.js"
+  ]
+}
