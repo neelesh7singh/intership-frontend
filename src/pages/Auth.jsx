@@ -108,7 +108,7 @@ function Auth(props) {
             />
           </div>
           <button type='submit' className='btn btn-primary'>
-            Upload
+            SignUp
           </button>
         </form>
       </div>
@@ -134,7 +134,7 @@ function Auth(props) {
             />
           </div>
           <button type='submit' className='btn btn-primary'>
-            Upload
+            LogIn
           </button>
         </form>
       </div>

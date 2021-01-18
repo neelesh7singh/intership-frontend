@@ -81,7 +81,10 @@ function Posts(props) {
             {post.img && (
               <img
                 className='rounded mx-auto d-block mt-3'
-                src={'http://localhost:3000/' + post.img.replace('public/', '')}
+                src={
+                  'https://lt-lgtime-backend.herokuapp.com/' +
+                  post.img.replace('public/', '')
+                }
                 alt=''
               />
             )}
