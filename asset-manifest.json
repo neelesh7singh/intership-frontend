@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/intership-frontend/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/intership-frontend/static/js/main.706c1720.chunk.js",
-    "main.js.map": "/intership-frontend/static/js/main.706c1720.chunk.js.map",
+    "main.js": "/intership-frontend/static/js/main.aef435a5.chunk.js",
+    "main.js.map": "/intership-frontend/static/js/main.aef435a5.chunk.js.map",
     "runtime-main.js": "/intership-frontend/static/js/runtime-main.3fc3739a.js",
     "runtime-main.js.map": "/intership-frontend/static/js/runtime-main.3fc3739a.js.map",
     "static/js/2.fefd974a.chunk.js": "/intership-frontend/static/js/2.fefd974a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3fc3739a.js",
     "static/js/2.fefd974a.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.706c1720.chunk.js"
+    "static/js/main.aef435a5.chunk.js"
   ]
 }
