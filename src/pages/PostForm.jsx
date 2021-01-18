@@ -63,7 +63,7 @@ function PostForm(props) {
   return (
     <div>
       <form onSubmit={handleSubmit}>
-        <legend className=' mt-5'>LogIn</legend>
+        <legend className=' mt-5'>Create Post</legend>
         <div className='mb-3'>
           <label className='form-label'>About :</label>
           <input
